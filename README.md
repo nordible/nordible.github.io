@@ -1,6 +1,6 @@
 # [nordible](http://nordible.com/) - software expertise for you!
 
-This repository is the website of nordible software.
+This repository is the website of [nordible software](http://nordible.com/).
 
 ## Bugs and Issues
 
