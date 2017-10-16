@@ -16,5 +16,5 @@ Code licensed under [MIT](https://opensource.org/licenses/MIT). Everything else 
 
 ## Follow us
 
-* [twitter.com/nordibles](https://twitter.com/nordibles)
+* [twitter.com/nordiblehq](https://twitter.com/nordiblehq)
 * [fb.com/nordible](https://www.facebook.com/nordible)
