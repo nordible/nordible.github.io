@@ -115,7 +115,7 @@ aside {
   }
   .navbar-default .navbar-header .navbar-brand:hover,
   .navbar-default .navbar-header .navbar-brand:focus {
-    color: white;
+    color: black;
   }
   .navbar-default .nav > li > a,
   .navbar-default .nav > li > a:focus {
@@ -230,7 +230,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto;
 }
 .portfolio-box .portfolio-box-caption {
-  color: white;
+  color: black;
   opacity: 1;
   border:1px solid;
   display: block;
