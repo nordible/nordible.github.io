@@ -1,1 +1,1 @@
-Sitemap: https://nordible.com/sitemap.xml
+Sitemap: https://nordible.com/sitemap.txt
