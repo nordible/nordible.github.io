@@ -4,3 +4,11 @@ https://nordible.com/NodeJS-Typescript-Serverless-Template/
 https://nordible.com/mean-heroku-mlab-app/
 https://nordible.com/CSharp-BinarySearchTree/
 https://nordible.com/React-Typescript-Form-Component/
+https://nordible.com/react-tdd/
+https://nordible.com/serverless-plugin-typescript-express/
+https://nordible.com/MongoDb-Aggregation-Pipeline-Sample/
+https://nordible.com/typescript-node-REST-APIs-sample/
+https://nordible.com/redisClusterTest/
+https://nordible.com/redisTest/
+https://nordible.com/Bot-x-Skype/
+https://nordible.com/StackOverflowClone/
