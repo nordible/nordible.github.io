@@ -14,4 +14,4 @@ https://nordible.com/Bot-x-Skype/
 https://nordible.com/StackOverflowClone/
 https://nordible.com/typescript-boilerplate/
 https://nordible.com/mongodb-utility/
-https://nordible.com/React-Typescript-Tradingview-Embed/
+https://nordible.com/Typescript-Tradingview-Embed/
