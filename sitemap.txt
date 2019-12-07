@@ -17,3 +17,4 @@ https://nordible.com/mongoose-utility/
 https://nordible.com/Typescript-Tradingview-Embed/
 https://nordible.com/webStorage-Utilities/
 https://nordible.com/TradableSchemas/
+https://nordible.com/quickSort-typescript/
