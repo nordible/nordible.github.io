@@ -1298,21 +1298,21 @@ p {
     -o-transform: translate(0px, 0px) rotate(0deg);
     transform: translate(0px, 0px) rotate(0deg); } }
 /*===== OUR SERVICE =====*/
-.our-services-tab .nav {
+.our-solutions-tab .nav {
   border-bottom: 2px solid #dedede4f; }
   @media (max-width: 767px) {
-    .our-services-tab .nav {
+    .our-solutions-tab .nav {
       border-bottom: 0; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .our-services-tab .nav {
+    .our-solutions-tab .nav {
       border-bottom: 2px solid #dedede4f; } }
   @media (max-width: 767px) {
-    .our-services-tab .nav .nav-item {
+    .our-solutions-tab .nav .nav-item {
       width: 50%; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .our-services-tab .nav .nav-item {
+    .our-solutions-tab .nav .nav-item {
       width: auto; } }
-  .our-services-tab .nav .nav-item a {
+  .our-solutions-tab .nav .nav-item a {
     color: #798795;
     padding: 17px 30px;
     display: -webkit-flex;
@@ -1330,17 +1330,17 @@ p {
     -o-transition: all 0.3s ease-out 0s;
     transition: all 0.3s ease-out 0s; }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
-      .our-services-tab .nav .nav-item a {
+      .our-solutions-tab .nav .nav-item a {
         padding: 17px 15px; } }
     @media (max-width: 767px) {
-      .our-services-tab .nav .nav-item a {
+      .our-solutions-tab .nav .nav-item a {
         padding: 17px 15px;
         border-bottom: 2px solid #dedede4f; } }
     @media only screen and (min-width: 576px) and (max-width: 767px) {
-      .our-services-tab .nav .nav-item a {
+      .our-solutions-tab .nav .nav-item a {
         padding: 17px 10px;
         border-bottom: 0; } }
-    .our-services-tab .nav .nav-item a::before {
+    .our-solutions-tab .nav .nav-item a::before {
       position: absolute;
       content: '';
       width: 100%;
@@ -1354,50 +1354,50 @@ p {
       -ms-transition: all 0.3s ease-out 0s;
       -o-transition: all 0.3s ease-out 0s;
       transition: all 0.3s ease-out 0s; }
-    .our-services-tab .nav .nav-item a i {
+    .our-solutions-tab .nav .nav-item a i {
       font-size: 50px; }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
-        .our-services-tab .nav .nav-item a i {
+        .our-solutions-tab .nav .nav-item a i {
           font-size: 40px; } }
       @media (max-width: 767px) {
-        .our-services-tab .nav .nav-item a i {
+        .our-solutions-tab .nav .nav-item a i {
           font-size: 34px; } }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .our-services-tab .nav .nav-item a i {
+        .our-solutions-tab .nav .nav-item a i {
           font-size: 28px; } }
-    .our-services-tab .nav .nav-item a span {
+    .our-solutions-tab .nav .nav-item a span {
       font-size: 14px;
       font-family: "Nunito", sans-serif;
       font-weight: 500;
       padding-left: 15px; }
       @media only screen and (min-width: 576px) and (max-width: 767px) {
-        .our-services-tab .nav .nav-item a span {
+        .our-solutions-tab .nav .nav-item a span {
           padding-left: 10px; } }
-    .our-services-tab .nav .nav-item a.active {
+    .our-solutions-tab .nav .nav-item a.active {
       color: #ff0000; }
-      .our-services-tab .nav .nav-item a.active::before {
+      .our-solutions-tab .nav .nav-item a.active::before {
         opacity: 1; }
-.our-services-tab .our-services-content .services-title {
+.our-solutions-tab .our-solutions-content .solutions-title {
   font-size: 40px; }
   @media (max-width: 767px) {
-    .our-services-tab .our-services-content .services-title {
+    .our-solutions-tab .our-solutions-content .solutions-title {
       font-size: 22px; } }
   @media only screen and (min-width: 576px) and (max-width: 767px) {
-    .our-services-tab .our-services-content .services-title {
+    .our-solutions-tab .our-solutions-content .solutions-title {
       font-size: 26px; } }
-  .our-services-tab .our-services-content .services-title span {
+  .our-solutions-tab .our-solutions-content .solutions-title span {
     font-weight: 400;
     display: contents; }
-.our-services-tab .our-services-content .text {
+.our-solutions-tab .our-solutions-content .text {
   margin-top: 35px; }
-.our-services-tab .our-services-content .our-services-progress .circles-text {
+.our-solutions-tab .our-solutions-content .our-solutions-progress .circles-text {
   font-size: 24px !important;
   font-weight: 700;
   color: #222;
   font-family: "Nunito", sans-serif; }
-.our-services-tab .our-services-content .our-services-progress .progress-content {
+.our-solutions-tab .our-solutions-content .our-solutions-progress .progress-content {
   padding-left: 30px; }
-  .our-services-tab .our-services-content .our-services-progress .progress-content .progress-title {
+  .our-solutions-tab .our-solutions-content .our-solutions-progress .progress-content .progress-title {
     font-size: 18px; }
 
 /*===== SERVICE 2 =====*/
@@ -1422,7 +1422,7 @@ p {
     padding-top: 20px; }
 
 /*===== SERVICE 3 =====*/
-.services-3 {
+.solutions-3 {
   border-top: 1px solid #dedede4f; }
 
 .single-service-3 .service-icon {
